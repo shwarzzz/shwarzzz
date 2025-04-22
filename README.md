@@ -1,7 +1,6 @@
 ### Hi, I’m Anatoly Anisimov 👋
 
-- 👀 I am interested in developing the Java backend
-- 🌱 I’m currently learning at School 21
+- 👀 I am working as a Java backend developer
 
 ### Languages, frameworks and tools
 
